@@ -19,5 +19,4 @@ User-Friendly Interface: A Flask-based web application provides a platform for l
 - **FAISS:** Vector database for efficient information retrieval.
 - **spaCy**: Natural Language Processing library for text processing.
 - **SunoAI BARK:** Text-to-speech model for natural-sounding speech synthesis.
-- **OpenAI Whisper:** Tranformer based Speech-to-Text model by openAI for fast and accurate text synthesis.
 - **Flask:** Web framework for developing the user interface.
